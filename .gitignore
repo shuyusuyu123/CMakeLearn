@@ -1,3 +1,17 @@
+.vs
+.idea
+build
+build_win
+build_Debug
+build_Release
+build_linux
+cmake-build-debug
+*.zip
+*.tar.gz
+*.gz
+*.tar
+*.7z
+
 # Prerequisites
 *.d
 
